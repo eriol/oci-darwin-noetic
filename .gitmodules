@@ -1,0 +1,6 @@
+[submodule "ROBOTIS-Framework"]
+	path = ROBOTIS-Framework
+	url = git@github.com:ROBOTIS-GIT/ROBOTIS-Framework.git
+[submodule "ROBOTIS-Framework-msgs"]
+	path = ROBOTIS-Framework-msgs
+	url = git@github.com:ROBOTIS-GIT/ROBOTIS-Framework-msgs.git
