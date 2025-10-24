@@ -1,6 +1,6 @@
 FROM docker.io/osrf/ros:noetic-desktop-full-focal
 
-LABEL LastUpdate="2025-10-23"
+LABEL LastUpdate="2025-10-25"
 
 RUN apt update \
     && apt install -qqy \
